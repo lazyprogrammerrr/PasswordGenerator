@@ -1,0 +1,6 @@
+#ALL MODULES USED IN PASSWORD GEN
+
+pyfiglet==0.8.post1
+colorama==0.4.3
+pyAesCrypt==5.0.0
+rich==10.1.0
